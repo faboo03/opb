@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Fabien Rondeau]]></title>
+  <link href="http://faboo03.github.io/opb/atom.xml" rel="self"/>
+  <link href="http://faboo03.github.io/opb/"/>
+  <updated>2013-08-25T23:32:18+02:00</updated>
+  <id>http://faboo03.github.io/opb/</id>
+  <author>
+    <name><![CDATA[Fabien Rondeau]]></name>
+    <email><![CDATA[ec.fabx@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Premier Post]]></title>
+    <link href="http://faboo03.github.io/opb/blog/2013/08/25/premier-post/"/>
+    <updated>2013-08-25T19:59:00+02:00</updated>
+    <id>http://faboo03.github.io/opb/blog/2013/08/25/premier-post</id>
+    <content type="html"><![CDATA[<h1>Je suis du contenu que je suppose être en Markdown </h1>
+
+<p>Je vais donc devoir l&#8217;apprendre il me semble parce que jusqu&#8217;à aujourd&#8217;hui, je n&#8217;en avais pas vraiment besoin&hellip; :)</p>
+
+<p>Trop bien en tout cas! :)</p>
+
+<p> <strong> Je vais apprendre des choses
+ </strong> Ca va être beau
+ ** VIM comprend ce que j&#8217;écris c&#8217;est trop la classe! :)</p>
+
+<p>=> a Essayer de publier maintenant! :)</p>
+]]></content>
+  </entry>
+  
+</feed>
