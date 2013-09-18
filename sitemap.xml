@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://faboo03.github.io/opb/blog/2013/08/25/premier-post/</loc>
+        <loc>http://faboo03.github.io//github/blog/2013/08/25/premier-post/</loc>
         <lastmod>2013-08-25T20:01:45+02:00</lastmod>
     </url>
     <url>
-        <loc>http://faboo03.github.io/opb/</loc>
+        <loc>http://faboo03.github.io//github/</loc>
         <lastmod>2013-08-25T23:32:14+02:00</lastmod>
     </url>
     <url>
-        <loc>http://faboo03.github.io/opb/blog/</loc>
+        <loc>http://faboo03.github.io//github/blog/</loc>
         <lastmod>2013-08-25T20:01:45+02:00</lastmod>
     </url>
     <url>
-        <loc>http://faboo03.github.io/opb/blog/archives/</loc>
+        <loc>http://faboo03.github.io//github/blog/archives/</loc>
         <lastmod>2013-08-25T20:01:45+02:00</lastmod>
     </url>
     <url>
-        <loc>http://faboo03.github.io/opb/humans.txt</loc>
+        <loc>http://faboo03.github.io//github/humans.txt</loc>
         <lastmod>2013-08-25T22:54:38+02:00</lastmod>
     </url>
     <url>
-        <loc>http://faboo03.github.io/opb/robots.txt</loc>
+        <loc>http://faboo03.github.io//github/robots.txt</loc>
         <lastmod>2013-08-25T19:37:55+02:00</lastmod>
     </url>
 </urlset>

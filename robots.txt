@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://faboo03.github.io/opb/sitemap.xml 
+Sitemap: http://faboo03.github.io//github/sitemap.xml 
