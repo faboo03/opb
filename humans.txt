@@ -4,6 +4,12 @@ Site:
 
 
 
+/* THANKS */
+Stephen Coogan - Developer of theme, Oscailte (https://github.com/coogie/oscailte/)
+  -- Twitter: https://www.twitter.com/coog_ie
+  -- Github: https://www.github.com/coogie
+  -- Website: http://www.coog.ie/
+
 /* COLOPHON */
 Components:
   -- inuit.css (http://inuitcss.com/)
